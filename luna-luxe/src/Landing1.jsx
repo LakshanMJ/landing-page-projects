@@ -525,7 +525,7 @@ export default function Landing1() {
             <h3 className="mt-3 text-3xl font-semibold">50% Off Skincare Sale</h3>
             <button className="mt-5 rounded-lg bg-[#a47148] px-5 py-2 text-sm text-white hover:scale-105 transition duration-300">Shop Sale</button>
             <img
-              src="50%off.png"
+              src="50off.png"
               alt="Skincare sale item"
               className="absolute -bottom-6 -right-2 hidden h-40 w-30  object-cover md:block"
             />
