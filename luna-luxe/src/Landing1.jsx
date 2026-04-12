@@ -52,11 +52,11 @@ const products = [
   { name: "Velvet Glow Foundation", price: "$68.00", image: "Velvet Glow Foundation.jpg" },
   { name: "Radiance Vitamin C Serum", price: "$74.00", image: "Radiance Vitamin C Serum.jpg" },
   { name: "Silk Matte Lipstick", price: "$42.00", image: "Silk Matte Lipstick.jpg" },
-  { name: "Hydra Calm Moisturizer", price: "$58.00", image: "Hydra Calm Moisturizer.jpg" },
-  { name: "Rose Clay Cleanser", price: "$39.00", image: "Rose Clay Cleanser.jpg" },
+  { name: "Hydra Calm Moisturizer", price: "$58.00", image: "Hydra Calm Moisturizer.JPG" },
+  { name: "Rose Clay Cleanser", price: "$39.00", image: "Rose Clay Cleanser.JPG" },
   { name: "Luminous Blush Palette", price: "$52.00", image: "Luminous Blush Palette.jpg" },
-  { name: "Botanical Face Oil", price: "$64.00", image: "Botanical Face Oil.jpg" },
-  { name: "Dew Mist Setting Spray", price: "$46.00", image: "Dew Mist Setting Spray.jpg" },
+  { name: "Botanical Face Oil", price: "$64.00", image: "Botanical Face Oil.JPG" },
+  { name: "Dew Mist Setting Spray", price: "$46.00", image: "Dew Mist Setting Spray.JPG" },
 ];
 
 
