@@ -82,18 +82,3 @@ Repeat for other folders.
 
 ## 📸 Preview
 <p align="center"> <img src="assets/hotel.png" width="300"/> <img src="assets/gym.png" width="300"/> <img src="assets/cosmetics.png" width="300"/> </p>
-
-## 🎯 Purpose
-
-This repository is built to:
-
-- Showcase frontend UI/UX skills
-- Demonstrate real-world landing page design
-- Attract freelance clients (Fiverr / Upwork)
-- Build a strong developer portfolio
-
-## 🚀 Future Improvements
-- Add more niche landing pages (SaaS, Agency, Restaurant)
-- Convert designs to reusable templates
-- Add animations (Framer Motion)
-- Improve SEO structure
